@@ -8,6 +8,7 @@ const LandingPage = () => {
         <section id="home">
 
             <p className='name'><h1><b>Hello! I'm Juan Fernando Santos</b></h1></p>
+            <hr />
             <p className='description'>A passionate biochemistry student from El Salvador, currently studying at the University of Alberta.
             My academic journey is driven by a deep curiosity about the molecular mechanisms that 
         govern life. I am particularly fascinated by the intersection of biochemistry and 
