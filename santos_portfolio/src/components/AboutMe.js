@@ -8,10 +8,11 @@ const AboutMe = () => {
     return (
         <section id="about">
             <p>
-                <img  class = "Landing-IMG" src={LandingPageIMG} alt="Landing page profile picture" />
+                <img  class = "Landing-IMG" src={LandingPageIMG} alt="Landing page profile picture"  />
            
             </p>
-            <p>
+            <p class = "aboutMeText">
+                
             I was born and raised in El Salvador, where I got the opportunity of attending the Academia 
             Britanica Cuscatleca for my studies from early education up until completing both the IGCSE 
             and the complete IB curriculum. When I got to grade 9, I decided to concentrate my studies 
@@ -19,6 +20,7 @@ const AboutMe = () => {
             When I got to my senior year, my passion and genuine intrigue for science had only grown, and so 
             I decided to pursue a career down that same path, by attending the University of Alberta to for my bachelors 
             degree in Biochemistry Honors and start my journey in becoming a researcher.
+            
             </p>
         </section>
     );
