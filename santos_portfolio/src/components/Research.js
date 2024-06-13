@@ -1,11 +1,13 @@
 // src/components/Research.js
 import React from 'react';
+import './Research.css';
 
 const Research = () => {
     return (
         <section id="research">
-            <h2>Research Interests</h2>
-            <p>This is the research interests section of your web page.</p>
+            <div class = "research-title">
+                Research Interest:
+            </div>
         </section>
     );
 };
