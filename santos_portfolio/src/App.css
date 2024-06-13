@@ -1,6 +1,6 @@
 /* src/App.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
     
@@ -9,7 +9,7 @@ body {
 header {
     background-color: rgb(3, 3, 3);
     color: #fff;
-    padding:25px;
+    padding:20px;
     position: fixed;
     width: 100%;
     top: 0;
@@ -63,7 +63,8 @@ section {
 }
 
 .description {
-    font-size:20px;
+    font-size:21px;
+    text-align: left;
 }
 
 #about {
