@@ -7,11 +7,13 @@ import './AboutMe.css';
 const AboutMe = () => {
     return (
         <section id="about">
-            <p>
+            <div class="container">
+
+            <div class = "aboutMeIMG">
                 <img  class = "Landing-IMG" src={LandingPageIMG} alt="Landing page profile picture"  />
            
-            </p>
-            <p class = "aboutMeText">
+            </div>
+            <p  class = "aboutMeText">
                 
             I was born and raised in El Salvador, where I got the opportunity of attending the Academia 
             Britanica Cuscatleca for my studies from early education up until completing both the IGCSE 
@@ -22,6 +24,7 @@ const AboutMe = () => {
             degree in Biochemistry Honors and start my journey in becoming a researcher.
             
             </p>
+            </div>
         </section>
     );
 };

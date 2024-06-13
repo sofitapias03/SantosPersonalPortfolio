@@ -16,7 +16,7 @@ header {
     z-index: 1000;
     font-size:23px;
     font-weight:bold;
-
+    font-family: sans-serif;
 }
 
 nav ul {

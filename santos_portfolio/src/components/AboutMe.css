@@ -1,13 +1,29 @@
 
 .Landing-IMG {
-    height:30%;
-    width:30%;
+    height:65%;
+    width:65%;
     border-radius:50% 20% / 10% 40%;
     box-shadow: 12px 12px 2px 10px rgba(3, 105, 3, 0.4);
     margin:100px;
+    margin-top:100px;
 }
 
 .aboutMeText {
-    font-size: 30px;
+    font-size: 25px;
+    margin-top:100px;
+    font-family:sans-serif;
+    line-height: 130%; /*adds spaces between the lines in text*/
+    text-align: justify; /*makes the text fill width */
+    margin-right:10%;
 }
+
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 3px;
+   }
+
+
+
 
