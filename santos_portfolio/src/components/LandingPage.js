@@ -1,12 +1,13 @@
 // src/components/Home.js
 import React from 'react';
+import './LandingPage.css';
 
 
 
 const LandingPage = () => {
     return (
         <section id="home">
-
+           <div class = "landing-container">
             <p className='name'><h1><b>Hello! I'm Juan Fernando Santos</b></h1></p>
             <hr />
             <p className='description'>A passionate biochemistry student from El Salvador, currently studying at the University of Alberta.
@@ -16,6 +17,7 @@ const LandingPage = () => {
         and biotechnology. Join me as I explore the wonders of biochemistry, share my research 
         interests, and work towards making meaningful contributions to science and society.
             </p>
+            </div>
 
             
         </section>
