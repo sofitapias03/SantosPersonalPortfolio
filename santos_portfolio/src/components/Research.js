@@ -9,6 +9,7 @@ const Research = () => {
                 Research Interest:
             </div>
             <br/>
+            
             <br/>
             <p class = "research-text">
             I have always been interested in research involving infectious diseases, focusing on the complex mechanisms that take place during an 
@@ -19,6 +20,19 @@ const Research = () => {
             I am interested in continuing my research and expanding my knowledge in this type of infectious diseases at a molecular level. 
 
             </p>
+
+            <div class = "flex-container">
+            <div class = "div-item">
+                39 million infections in 2022
+            </div>
+            <div class = "div-item">
+                39 million infections in 2022
+            </div>
+            <div class = "div-item">
+                39 million infections in 2022
+            </div>
+
+            </div>
         </section>
     );
 };
