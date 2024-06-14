@@ -23,13 +23,13 @@ const Research = () => {
 
             <div class = "flex-container">
             <div class = "div-item">
-                39 million infections in 2022
+                <div class = "card-text">39 million infectionspeople living with HIV in 2022</div>
             </div>
             <div class = "div-item">
-                39 million infections in 2022
+            <div class = "card-text">1.3 million infections in 2022</div>
             </div>
             <div class = "div-item">
-                39 million infections in 2022
+            <div class = "card-text">63000 deaths realted to HIV in 2022</div>
             </div>
 
             </div>
