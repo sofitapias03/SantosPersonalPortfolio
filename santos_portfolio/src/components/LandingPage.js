@@ -9,6 +9,7 @@ const LandingPage = () => {
         <section id="home">
            <div class = "landing-container">
             <p className='name'><h1><b>Hello! I'm Juan Fernando Santos</b></h1></p>
+            <div class = "underline"></div>
             <hr />
             <p className='description'>A passionate biochemistry student from El Salvador, currently studying at the University of Alberta.
             My academic journey is driven by a deep curiosity about the molecular mechanisms that 

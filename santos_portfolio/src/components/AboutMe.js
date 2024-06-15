@@ -13,7 +13,7 @@ const AboutMe = () => {
             <div class="container">
 
             <div class = "aboutMeIMG">
-                <img  class = "Landing-IMG" src={LandingPageIMG} alt="Landing page profile picture"  />
+                <img class = "Landing-IMG" src={LandingPageIMG} alt="Landing page profile picture"  />
            
             </div>
             

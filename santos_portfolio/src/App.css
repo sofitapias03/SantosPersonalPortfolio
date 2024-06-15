@@ -60,6 +60,9 @@ section {
 .name {
     font-size:32px;
     font-weight:bold;
+    padding-bottom:0px;
+    margin-bottom:0px;
+    z-index:20;
 }
 
 .description {
