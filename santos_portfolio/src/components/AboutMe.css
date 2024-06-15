@@ -25,6 +25,15 @@
     column-gap: 3px;
    }
 
+   .aboutMe-title{
+    font-size:50px;
+    font-weight:bold;
+    text-align: center;
+    position: relative;
+    padding:30px;
+    
+   }
+
 
 
 
