@@ -12,12 +12,11 @@
 }
 
 .underline{
-    height:28px;
-    width:74%;
+    height:20px;
+    width:84%;
     background-color: rgba(3, 105, 3, 0.4);
-    position: relative;
     align-items: center;
-    margin-top:-65px;
+    margin-top:-70px;
     z-index:0;
 }
 
